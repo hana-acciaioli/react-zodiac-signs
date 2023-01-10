@@ -1,8 +1,8 @@
 .sign {
   width: 200px;
   margin: 10px;
-  border-radius: 5px;
-  border-style: groove;
+  border-radius: 15px;
+  border-style: inset;
   border-color: antiquewhite;
   padding: 10px;
   /* position: absolute; */
@@ -12,8 +12,14 @@
   align-items: center;
   justify-content: center;
   text-align: center;
-  border: radius 75%;
-  background-color: rgb(19, 28, 37);
+  /* background-color: rgb(19, 28, 37); */
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(2, 30, 62, 1) 64%,
+    rgba(121, 87, 35, 1) 100%
+  );
 }
 
 .sign img {
