@@ -1,0 +1,24 @@
+.sign {
+  width: 200px;
+  margin: 10px;
+  border-radius: 5px;
+  padding: 10px;
+  /* position: absolute; */
+  color: var(--color1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  border-radius: 75%;
+  background-color: rgb(19, 28, 37);
+}
+
+.sign img {
+  width: 100px;
+}
+
+.sign .name {
+  text-transform: uppercase;
+  font-weight: bold;
+}
