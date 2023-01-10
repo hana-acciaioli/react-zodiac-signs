@@ -2,6 +2,8 @@
   width: 200px;
   margin: 10px;
   border-radius: 5px;
+  border-style: groove;
+  border-color: antiquewhite;
   padding: 10px;
   /* position: absolute; */
   color: var(--color1);
@@ -10,7 +12,7 @@
   align-items: center;
   justify-content: center;
   text-align: center;
-  border-radius: 75%;
+  border: radius 75%;
   background-color: rgb(19, 28, 37);
 }
 
