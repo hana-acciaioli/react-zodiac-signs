@@ -4,8 +4,9 @@ main {
   margin-bottom: 40px;
   background-size: fill;
   height: auto;
-  align-content: flex-start;
-  position: relative;
+  /* align-content: flex-start; */
+  /* position: relative; */
   color: rgb(238, 235, 227);
   padding: 20px;
+  /* text-align: center; */
 }

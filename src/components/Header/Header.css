@@ -6,4 +6,10 @@ header {
   display: flex;
   align-items: center;
   padding-left: 20px;
+  text-align: center;
+}
+
+.header {
+  color: rgb(105, 230, 213);
+  text-align: center;
 }
